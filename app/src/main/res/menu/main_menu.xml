@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mitem_h"
+        android:title="H muda"
+        android:checkable="true"
+        android:checked="true"
+        android:icon="@android:drawable/ic_menu_preferences" />
+
+    <item android:id="@+id/mitem_r"
+        android:title="R fuerte"
+        android:checkable="true"
+        android:checked="true"
+        android:icon="@android:drawable/ic_menu_preferences" />
+</menu>
