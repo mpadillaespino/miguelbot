@@ -10,8 +10,8 @@ MiguelBot es un lector de texto a voz (text-to-speech) basado en [Alvabot](https
 ## Capturas
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/73041531/121473236-f7cb5d00-c987-11eb-9e73-415e34bf1688.png" width="400" />
-<img src="https://user-images.githubusercontent.com/73041531/121473264-031e8880-c988-11eb-940f-c3154e463894.png" width="400" />
+<img src="https://user-images.githubusercontent.com/73041531/121473236-f7cb5d00-c987-11eb-9e73-415e34bf1688.png" width="350" />
+<img src="https://user-images.githubusercontent.com/73041531/121473264-031e8880-c988-11eb-940f-c3154e463894.png" width="350" />
 </p>
 
 
