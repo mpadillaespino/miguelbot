@@ -1,28 +1,19 @@
 # MiguelBot
 
-RocketPVP es una calculadora de IV y de enfriamiento OFFLINE para Pokemon GO escrita completamente en Kotlin. Todos los creditos de los stats base de los Pokemons para [Pogostat IV Calculator](https://pogostat.com/).
+MiguelBot es un lector de texto a voz (text-to-speech) basado en [Alvabot](https://5ro4.itch.io/alvabot) del Youtuber español [Alva Majo](https://www.youtube.com/user/5ro4) a quien corresponde los créditos por los samples del proyecto.
+(¡¡Prometo que pronto actualizaré con samples de mi propia voz!!)
 
-## Caracteristicas
-- Calculadora de IV.
-- Calculadora de distancia.
-- Calculadora de enfriamiento.
-- Para agregar mas pokemons, formas, etc., modificar el archivo **pokedex.json**.
+# Caracteristicas
+
+- 100% Kotlin.
 
 ## Capturas
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/73041531/101299442-3da04080-3800-11eb-9905-f814587515f2.png" width="300" />
-<img src="https://user-images.githubusercontent.com/73041531/101299444-3e38d700-3800-11eb-8c52-3c56c07b20eb.png" width="300" />
+<img src="https://user-images.githubusercontent.com/73041531/121473236-f7cb5d00-c987-11eb-9e73-415e34bf1688.png" width="400" />
+<img src="https://user-images.githubusercontent.com/73041531/121473264-031e8880-c988-11eb-940f-c3154e463894.png" width="400" />
 </p>
 
-<p float="left">
-<img src="https://user-images.githubusercontent.com/73041531/101299437-3bd67d00-3800-11eb-843a-92007d538719.png" width="300" />
-<img src="https://user-images.githubusercontent.com/73041531/101299439-3d07aa00-3800-11eb-87b5-26c5c296ddc1.png" width="300" />
-</p>
-
-<p float="left">
-<img src="https://user-images.githubusercontent.com/73041531/101299441-3da04080-3800-11eb-9173-c30b505b27f6.png" width="300" />
-</p>
 
 ## Licencia
-[MIT](https://github.com/mpadillaespino/rocketpvp/blob/master/LICENSE)
+[MIT](https://github.com/mpadillaespino/miguelbot/blob/master/LICENSE)
